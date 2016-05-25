@@ -1,0 +1,1 @@
+initSidebarItems({"trait":[["Transaction","Manual Transaction Manager"]]});

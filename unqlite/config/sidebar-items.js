@@ -1,0 +1,1 @@
+initSidebarItems({"trait":[["Config","A `Trait` for configuration."]]});

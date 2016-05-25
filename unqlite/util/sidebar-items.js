@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["load_mmaped_file","Load memory-mapped file so that we can save it to UnQLite"]],"struct":[["Mmap","UnQLite hosted memory mapped file"]],"trait":[["Util","Utility interfaces."]]});
